@@ -20,7 +20,7 @@ Install on your machine the fonts. Options (following [this great resource](http
 ### Get the installation script
 Clone/download the `powerline-mac-no-brew` repository from [here](https://github.com/uri-yanover/powerline-mac-no-brew) 
 
-### Run the installatio nscript
+### Run the installation script
 ```
 bash powerline-mac-no-brew/install_powerline.sh
 ```
